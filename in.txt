@@ -1,16 +1,26 @@
-A# A# A G D# DD#
-D# FFG D#FFG D#D CDD#D
+A#A#G D#D  D#D#DD
 
-A# A# A G D# DD#
-D# FFG D#FFG A A# A G
+D#F FG    D#FFG     D#D     CDD#D
 
-A a# C C D....D C D# D C A# A
-A a# C C D D# D C
-A a# C C D....D C D# D C A# A
-A a# C C D D# D C
+A#A# GD#D#   D#D#DD   D#FFG     D#FG    AGAA A#GD# D#D
 
-F# F# GA A A# C D# D BC DCA A A# A G
-F# F# GA A A# C F D# C D
-D F# G A GAG
+AA#CD DC  D#DCA#A  AA#C  DDDD{D#DC}
+
+AA#CCD DC  D#DCA#A   AA#CCDDDD{D#DC}
+
+F#GA    A#  C  D#D CBBCC{DA#A}
+
+F#F# F#GA    A#CD     FD#CD
+
+DF#G AG
 
 
+BBF#F# BAB        CDC  BABA
+
+ABBA      BDC  BBF#F#
+
+BABCDC         BAB      A   BAA
+
+AA#CCA#  CCA#CCD D#D#DC DC
+
+AA# A#A#CA#A#C CDD#F#  G  D#DCA#
